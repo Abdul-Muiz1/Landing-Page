@@ -59,3 +59,14 @@ display: flex;
 font-size: 36px;
 font-weight: 900;
 font: #1f2937;}
+.ter{display: flex;
+justify-content: center;
+align-items: center;
+}
+.break{overflow-wrap: break-word;
+word-wrap: break-word;
+height: 150px;
+width: 180px;
+color:#1c2129 ;
+font-size: 20px;
+margin-right: 10px;}
